@@ -1,1 +1,2 @@
-# cb-prj
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
